@@ -21,4 +21,7 @@ You can click the Preview link to take a look at your changes.
 </picture>
 
 
-<!-- (url)![Snake animation](https://github.com/fernandodomeneghetti/fernandodomeneghetti/blob/output/github-contribution-grid-snake.svg) -->
+<!--
+usando background white:
+(url)![Snake animation](https://github.com/fernandodomeneghetti/fernandodomeneghetti/blob/output/github-contribution-grid-snake.svg) 
+-->
