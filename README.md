@@ -1,23 +1,25 @@
-- 👋 Hi, I’m @fernandodomeneghetti
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<table border="0px">
+  <tr>
+    <td valign="top" width="50%">
+      
+- 👋 Hi, I’m @fernandodomeneghetti  
+- 👀 I’m interested in ...  
+- 🌱 I’m currently learning ...  
+- 💞️ I’m looking to collaborate on ...  
+- 📫 How to reach me ...  
+- 😄 Pronouns: ...  
+- ⚡ Fun fact: ...  
 
-<!---
-fernandodomeneghetti/fernandodomeneghetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+    </td>
+    <td valign="top" width="50%">
 
+  ![fernandodomeneghetti's Stats](https://github-readme-stats.vercel.app/api?username=fernandodomeneghetti&theme=dark&show_icons=true&hide_border=false&count_private=true)  
+  ![fernandodomeneghetti's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fernandodomeneghetti&theme=dark&hide_border=false)  
+  ![fernandodomeneghetti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandodomeneghetti&theme=dark&show_icons=true&hide_border=false&layout=compact)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandodomeneghetti&theme=dark&show_icons=true)
---->
-
-![fernandodomeneghetti's Stats](https://github-readme-stats.vercel.app/api?username=fernandodomeneghetti&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![fernandodomeneghetti's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fernandodomeneghetti&theme=dark&hide_border=false)
-![fernandodomeneghetti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandodomeneghetti&theme=dark&show_icons=true&hide_border=false&layout=compact)
-
+    </td>
+  </tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fernandodomeneghetti/fernandodomeneghetti/output/github-contribution-grid-snake-dark.svg">
